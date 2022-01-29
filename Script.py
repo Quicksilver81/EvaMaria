@@ -1,17 +1,18 @@
 class script(object):
     START_TXT = """Merhaba {},
-Benim Adım <a href='https://t.me/Anagrupbot'>Ana Grup Bot</a>, Film Sağlayabilirim, sadece beni grubuna ekle ve keyfini Çıkar. 😍"""
+Ben Ben Dizurphy ve Filmurphy kanallarının satır içi arama botuyum.
+Aşağıdaki butonu kullanarak içeriklere ulaşabilirsin iyi seyirler 🥳"""
     HELP_TXT = """Merhaba {}
 İşte Komutlarım İçin Yardım ."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: Quickwaste Film Botu
-✯ Yaratıcı: ali
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: Satır içi Film Botu
+✯ Yaratıcı: @mmagneto
 ✯ Kütüphane: Pyrogram
 ✯ Dil: Python 3
 ✯ Veri Tabanı: Mongo db
 ✯ Bot 𝚂unucusu: Heroku
 ✯ Yapı Durumu: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria açık kaynaklı bir projedir. 
+- ağla. 
 - Source - https://t.me/mmagneto
 
 <b>DEVS:</b>
@@ -21,7 +22,7 @@ Benim Adım <a href='https://t.me/Anagrupbot'>Ana Grup Bot</a>, Film Sağlayabil
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
 
 <b>NOT:</b>
-1. Eva Maria'nın yönetici privillage'ı olmalı.
+1. Botun yönetici privillage'ı olmalı.
 2. Bir sohbete yalnızca yöneticiler filtre ekleyebilir.
 3. Uyarı düğmelerinin sınırı 64 karakterdir. 
 
@@ -36,7 +37,7 @@ Benim Adım <a href='https://t.me/Anagrupbot'>Ana Grup Bot</a>, Film Sağlayabil
 
 <b>NOT:</b>
 1. Telegram herhangi bir içerik olmadan düğme göndermenize izin vermez, bu nedenle içerik zorunludur.
-2. Quickwaste Film Botu, herhangi bir telegram medya türüne sahip düğmeleri destekler.
+2. Film Botu, herhangi bir telegram medya türüne sahip düğmeleri destekler.
 3. Düğmeler markdown biçimi olarak düzgün bir şekilde ayrıştırılmalıdır
 
 <b>URL butonları:</b>
