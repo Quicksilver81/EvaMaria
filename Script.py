@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Merhaba {},
-Ben Ben Dizurphy ve Filmurphy kanallarının satır içi arama botuyum.
+Ben <a href=https://t.me/Dizurphy>Dizurphy</a> ve <a href=https://t.me/Filmurphy>Filmurphy</a> kanallarının satır içi arama botuyum.
 Aşağıdaki butonu kullanarak içeriklere ulaşabilirsin iyi seyirler 🥳"""
     HELP_TXT = """Merhaba {}
 İşte Komutlarım İçin Yardım ."""
